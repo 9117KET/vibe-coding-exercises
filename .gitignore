@@ -1,0 +1,7 @@
+# Course material written by the instructors. Kept locally, not published.
+exercise*.pdf
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
